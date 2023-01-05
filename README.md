@@ -6,9 +6,8 @@
 </h1>
 
 <!-- 贪吃蛇代码贡献图 -->
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/JHoves/JHoves/contribution-snake/github-contribution-grid-snake.svg" />
-</div>
+![](https://raw.githubusercontent.com/JHoves/JHoves/main/assets/github-contribution-grid-snake.svg)
+
 
 <!-- 个人介绍 -->
 #  🙉 Hello
