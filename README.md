@@ -1,2 +1,4 @@
 ### Hi there 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JHoves&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JHoves&show_icons=true&theme=buefy)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JHoves&repo=derliderli)](https://github.com/JHoves/derliderli)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JHoves&layout=compact)](https://github.com/JHoves/derliderli)
