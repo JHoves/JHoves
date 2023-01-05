@@ -10,11 +10,11 @@
 <p>✍️&nbsp;&nbsp;这里是JHoves! 努力往前！！</p>
 
 <div align="center"> 
-  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=JHoves&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div>
+  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=JHoves&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JHoves" />
+</div>
 
 <!-- GitHub 活动统计图 -->
 <div align="center"> 
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=JHoves&theme=tokyo-night" />
 </div>
-
-
