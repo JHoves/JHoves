@@ -5,9 +5,6 @@
   </a>
 </h1>
 
-<!-- just img -->
-<div align="center"><img width="50%" src="https://cdn.jsdelivr.net/gh/JHoves/photos/images/202110311913581.gif"/></div>
-
 <!-- 贪吃蛇代码贡献图 -->
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/JHoves/JHoves/contribution-snake/github-contribution-grid-snake.svg" />
